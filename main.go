@@ -1,6 +1,6 @@
 package main
 
-import "github.com/NonsoAmadi10/porto/cmd"
+import "github.com/0xciph3r/porto/cmd"
 
 func main() {
 	cmd.Execute()

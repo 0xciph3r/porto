@@ -15,7 +15,7 @@ and following the prompt.
 
 Download `porto` by running:
 ```bash
-wget https://github.com/NonsoAmadi10/porto/releases/download/1.0.0/porto
+wget https://github.com/0xciph3r/porto/releases/download/1.0.0/porto
 ```
 
 - Make the binary executable:
@@ -44,5 +44,5 @@ porto upload --region=<bucket-region> --bucket=<bucket-name> --file=<file1> --fi
 ```
 
 ## Contributions
-This is tool is currently in beta mode and hopefully it gets to alpha and a final release. If you feel you have ideas on how we can improve this, shoot me a mail at nonsoamadi@aol.com and raise a PR or open an issue. I respond fast!
+This is tool is currently in beta mode and hopefully it gets to alpha and a final release. If you feel you have ideas on how we can improve this, shoot me a mail at dev@radi-labs.org and raise a PR or open an issue. I respond fast!
 
